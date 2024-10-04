@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+}
+
+.side-bar {
+    display: inline;
+    left: 0;
+}
+
+.side-bar ul li {
+    list-style-type: none;
+}
+
+.side-bar-item ul li{
+    display: flex;
+    justify-content: space-between;
+}
